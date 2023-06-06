@@ -1,5 +1,4 @@
 # CardioVascular-Risk-Prediction
-# Cardiovascular Risk Prediction
 
 * **Cardiovascular diseases (CVDs) are the major cause of mortality worldwide. According to WHO, 17.9 million people died from CVDs in 2019, accounting for 32% of all global fatalities.**
 * Though CVDs cannot be treated, predicting the risk of the disease and taking the necessary precautions and medications can help to avoid severe symptoms and, in some cases, even death.
